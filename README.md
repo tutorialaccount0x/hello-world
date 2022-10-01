@@ -1,11 +1,5 @@
-## This is me making edits on the readmeedits branch
+# Hello world
 
-Making edits on my local computer and pushing to GitHub
+## Thank you for joining me in this VS Code and Exploring Git Tutorial
 
-making edits on github
-<<<<<<< HEAD
-we...forgot something. test git add . 
-=======
-
-asdfgh
->>>>>>> refs/remotes/origin/main
+### Check out markdown sometimes in the near future but the next thing to set up would be node. 
